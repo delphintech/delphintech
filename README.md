@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Junior software developer based in Paris with a background in industrial instrumentation.<br><br>After several years in the industry, I transitioned into software development to combine analytical thinking with creative problem-solving.<br><br>📚 Graduate of 42 Paris and Le Wagon<br><br>⚡ Outside of tech, I practice French boxing🥊 and play the ukulele 🎸</p>
+<p align="left">Junior software developer based in Paris with a background in industrial instrumentation.<br><br>After several years in the industry, I transitioned into software development to combine analytical thinking with creative problem-solving.<br><br>📚 Soon-to-be graduate of 42 Paris and alumnus of Le Wagon<br><br>⚡ Outside of tech, I practice French boxing🥊 and play the ukulele 🎸</p>
 
 ###
 
